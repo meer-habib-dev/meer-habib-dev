@@ -1,4 +1,4 @@
-# 🖐 Hi , I am [Meer_Habib](https://meerhabib.com)
+# 🖐 Hey! This is [Meer_Habib](https://meer-habib-dev.netlify.app/)
 
 ![Full Stack Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--xSt8SQIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aykr6602h90tij1154ha.png)
 
@@ -12,7 +12,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: **MERN Stack Development**
 - 😂 Fun Fact: I love Singing
-- 📫 My Portfolio: [Meer_Habib](https://meerhabib.com)
+- 📫 My Portfolio: [Meer_Habib](https://meer-habib-dev.netlify.app/)
 
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=meer-habib-dev.meer-habib-dev)
