@@ -96,21 +96,179 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 
 ## 📢 Vanilla Javascript Projects
 <details>
-<summary>Search Github Users</summary>
+<summary>Audio Player</summary>
 
-1. Live Demo: https://search-a-github-user-git-main-smabtahinoor.vercel.app/
-2. Github Code: https://github.com/19smabtahinoor/Search-a-github-user
+1. Live Demo: https://meer-habib-dev.github.io/audio-player-js/
+2. Github Code: https://github.com/meer-habib-dev/audio-player-js
 3. Technology : Vaniila JS
-![ss](https://smabtahinoor.vercel.app/images/portfolio/github.png)
 </details>
 
+<details>
+<summary>Break Down Game</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/Break-down-game/
+2. Github Code: https://github.com/meer-habib-dev/Break-down-game
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Custom Video Player</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/custom-video-player-vanila-js/
+2. Github Code: https://github.com/meer-habib-dev/custom-video-player-vanila-js
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Exchange Rate</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/exchange-rate-with-api/
+2. Github Code: https://github.com/meer-habib-dev/exchange-rate-with-api
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Expense Tracker</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/expense-tracker/
+2. Github Code: https://github.com/meer-habib-dev/expense-tracker
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Form validator</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/form-validator-js/
+2. Github Code: https://github.com/meer-habib-dev/form-validator-js
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Guess The Number</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/guess-the-number/
+2. Github Code: https://github.com/meer-habib-dev/guess-the-number
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Hangman Game</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/hangman-game-js/
+2. Github Code: https://github.com/meer-habib-dev/hangman-game-js
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Light Dark Theme</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/Light-dark-theme/
+2. Github Code: https://github.com/meer-habib-dev/Light-dark-theme
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Lyrics search and fetch</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/lyrics-search---fetch-api/
+2. Github Code: https://github.com/meer-habib-dev/lyrics-search---fetch-api
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Lyrics search and fetch</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/map-filter-reduce-sort-js-project/
+2. Github Code: https://github.com/meer-habib-dev/map-filter-reduce-sort-js-project
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Mealdb JS</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/meal-bd-js-project/
+2. Github Code: https://github.com/meer-habib-dev/meal-bd-js-project
+3. Technology : Vaniila JS
+</details>
+
+<details>
+<summary>Memory Card Local Storage</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/memory-card-local-storage/
+2. Github Code: https://github.com/meer-habib-dev/memory-card-local-storage
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Movie seat booking</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/memory-card-local-storage/
+2. Github Code: https://github.com/meer-habib-dev/movie-seat-booking-vanila-js
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>New Year Counter</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/new-year-count-down/
+2. Github Code: https://github.com/meer-habib-dev/new-year-count-down
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>New Year Counter</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/new-year-count-down/
+2. Github Code: https://github.com/meer-habib-dev/new-year-count-down
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Relaxer App</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/relaxer-app/
+2. Github Code: https://github.com/meer-habib-dev/relaxer-app
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Scroll Pagination</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/scroll-pageination/
+2. Github Code: https://github.com/meer-habib-dev/scroll-pageination
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Side Nav & Pop Up</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/side-nav-and-pop-up/
+2. Github Code: https://github.com/meer-habib-dev/side-nav-and-pop-up
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Speach-tracker</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/speach-tracker/
+2. Github Code: https://github.com/meer-habib-dev/speach-tracker
+3. Technology : Vanilla JS
+</details>
+
+<details>
+<summary>Type Game</summary>
+
+1. Live Demo: https://meer-habib-dev.github.io/type-game/
+2. Github Code: https://github.com/meer-habib-dev/type-game
+3. Technology : Vanilla JS
+</details>
 
 ## 📢 My Components with Tailwind CSS
 <details>
 <summary>Navar with React and Tailwind CSS</summary>
 
 1. Live Demo: https://navbar-react-tailwind.vercel.app/
-2. Github Code: https://github.com/19smabtahinoor/Navbar-React-Tailwind
+2. Github Code: https://github.com/meer-habib-dev/type-game
 3. Technology : React JS, Tailwind CSS
 </details>
 
