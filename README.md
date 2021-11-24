@@ -101,6 +101,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 </details>
 
 
+<details>
 <summary>Ema E-commerce</summary>
   
 1. Live Link : https://ema-apur-shop.netlify.app/
@@ -109,6 +110,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 5. Technologies: React JS, Node JS, Express JS, MongoDB, Firebase, Heroku , Tailwind CSS etc...
 </details>
 
+<details>
 <summary>Genius Car</summary>
   
 1. Live Link : https://genius-car.web.app/
@@ -117,6 +119,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 4. Technologies: React JS, Node JS, Express JS, MongoDB, Firebase, Heroku , Tailwind CSS etc...
 </details>
 
+<details>
 <summary>Volunteer Network</summary>
   
 1. Live Link : https://volunteer-network-react.netlify.app/
