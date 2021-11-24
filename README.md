@@ -325,12 +325,3 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 3. Technology : Vanilla JS
 </details>
 
-## 📢 My Components with Tailwind CSS
-<details>
-<summary>Navar with React and Tailwind CSS</summary>
-
-1. Live Demo: https://navbar-react-tailwind.vercel.app/
-2. Github Code: https://github.com/meer-habib-dev/type-game
-3. Technology : React JS, Tailwind CSS
-</details>
-
