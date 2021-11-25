@@ -146,7 +146,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 </details>
 
 <details>
-<summary>Course Hub</summary>
+<summary>Donto Happy Smile</summary>
 
 1. Live Demo : https://donto-happy-smile.web.app/
 2. Github Code: https://github.com/meer-habib-dev/donto-happy-smile
