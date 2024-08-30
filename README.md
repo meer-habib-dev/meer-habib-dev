@@ -8,7 +8,7 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 
 ### Some thoughts about myself...
 
-- 🌱 I'm currently Learning **NestJS** 🤣
+- 🌱 I'm currently Learning **NestJS** 🥰
 - 💻 Most used code `console.log()`
 - 🎯 2024 Goals: **NestJS, Flutter, Android, iOS**
 - 😂 Fun Fact: I love Singing
