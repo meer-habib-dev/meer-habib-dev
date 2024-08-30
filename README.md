@@ -8,9 +8,9 @@ Skills: MERN STACK/ REACT / JS / HTML / CSS
 
 ### Some thoughts about myself...
 
-- 🌱 I'm currently Learning **Node, Express & MongoDB** 🤣
+- 🌱 I'm currently Learning **NestJS** 🤣
 - 💻 Most used code `console.log()`
-- 🎯 2021 Goals: **MERN Stack Development**
+- 🎯 2024 Goals: **NestJS, Flutter, Android, iOS**
 - 😂 Fun Fact: I love Singing
 - 📫 My Portfolio: [Meer_Habib](https://meer-habib-dev.netlify.app/)
 
