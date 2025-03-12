@@ -4,13 +4,13 @@
 
 I’m a professional full-stack developer with tons of experience. Specifically, I convey the knowledge of complete front-end as well as back-end development. My expertise is in (HTML,CSS, javascript, bootstrap, tailwind, react, node, express, mongodb, firebase, payment gateway). For me, client satisfaction is on the top. I keep working until my client feels quality work and satisfaction with his projects and I always prefer high-quality service regarding the client’s requirements. Feel free to reach me; I'm available to collaborate with you. So what are we waiting for? Let’s get start
 
-Skills: MERN STACK/ REACT / JS / HTML / CSS
+Skills: REACT NATIVE | EXPO | FLUTTER
 
 ### Some thoughts about myself...
 
-- 🌱 I'm currently Learning **NestJS** 🥰
+- 🌱 I'm currently Learning **LYNX** 🥰
 - 💻 Most used code `console.log()`
-- 🎯 2024 Goals: **NestJS, Flutter, Android, iOS**
+- 🎯 2025 Goals: **Android, iOS**
 - 😂 Fun Fact: I love Singing
 - 📫 My Portfolio: [Meer_Habib](https://meer-habib-dev.netlify.app/)
 
